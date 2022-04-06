@@ -2,8 +2,6 @@
 
 - 📫 Reach me at: [github.com/ulm0](github.com/ulm0) | [gitlab.com/ulm0](gitlab.com/ulm0)
 
-![GitHub is complicit](http://selfagency-share.s3.wasabisys.com/img/github_ice.png)
-
 <!--
 **ulm0/ulm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
